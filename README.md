@@ -1,5 +1,9 @@
 # vue-dropdown
 
+It is a dropdown list component developed using Vue.
+
+
+
 ## Project setup
 ```
 npm install
